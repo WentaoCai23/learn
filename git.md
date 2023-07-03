@@ -86,14 +86,14 @@ git branch -vv
 
 **在feature分支上 git merge master**
 
-![Alt text](1688391209871.png)
+![Alt text](image/1688391209871.png)
 
-![Alt text](1688391320712.png)
+![Alt text](image/1688391320712.png)
 
 **在feature分支上 git rebase master**
 
-![Alt text](1688391463689.png)
+![Alt text](image/1688391463689.png)
 
-![Alt text](1688391524403.png)
+![Alt text](image/1688391524403.png)
 
-![Alt text](1688391570169.png)
+![Alt text](image/1688391570169.png)
