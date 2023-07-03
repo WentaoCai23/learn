@@ -21,7 +21,7 @@ git log
 
 创建.gitignore文件，并在其中写入想要忽略的文件的名字，这样即使这个文件在文件夹中，git status也不会显示它untrack了
 
-创建新分支
+创建新分支，创建新分支时会从当前所在的分支复制一份，并将其作为新的分支
 git branch main
 
 切换分支
@@ -83,6 +83,8 @@ git push --force origin <分支名>
 
 显示本地所有分支关联的远程分支  
 git branch -vv
+
+pull request 让别人拉取自己代码的请求
 
 **在feature分支上 git merge master**
 
