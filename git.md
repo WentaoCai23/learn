@@ -69,3 +69,31 @@ M表示modified被修改的状态
 
 左下角切换分支  
 Publish Branch相当于git push
+
+将本地仓库与远端仓库建立一个链接，一般将shortname设置为origin  
+git remote add <shortname> <url>
+
+git push origin <本地分支>:<远程分支>
+
+如果本地分支与远程分支名字相同，可以省略冒号  
+git push origin <分支名>
+
+如果本地版本与远程版本有差异，但又要强制推送可以使用 --force 参数  
+git push --force origin <分支名>
+
+显示本地所有分支关联的远程分支  
+git branch -vv
+
+**在feature分支上 git merge master**
+
+![Alt text](1688391209871.png)
+
+![Alt text](1688391320712.png)
+
+**在feature分支上 git rebase master**
+
+![Alt text](1688391463689.png)
+
+![Alt text](1688391524403.png)
+
+![Alt text](1688391570169.png)
