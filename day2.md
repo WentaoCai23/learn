@@ -8,31 +8,31 @@ System.out.println(100 + 3 + "hello"); //103hello
 System.out.println("hello" + 100 +3); //hello1003
 ```
 
-![](image/1686296685291.png)
+![Alt text](image/1686296685291.png)
 
 
-![](image/1686297110771.png)
+![Alt text](image/1686297110771.png)
 
 Java的整型常量（具体值）默认为int型，声明long型常量须后面加'l'或者'L'。
 
 
-![](image/1686297652163.png)
+![Alt text](image/1686297652163.png)
 
 Java的浮点型常量（具体值）默认为double型，声明float型常量后面须后面加'f'或者'F'。  
 double型默认后面加'd'或者"D"。
 
-![](image/1686298257946.png)
+![Alt text](image/1686298257946.png)
 
 API (Application Programming Interface)
 
 ''表示字符  
 ""表示字符串
 
-![](image/1686299355041.png)
+![Alt text](image/1686299355041.png)
 
 不可以用0或非0的整数替代false和true，这与C语言不同。
 
-![](image/1686299844199.png)
+![Alt text](image/1686299844199.png)
 
 自动类型转换：  
 1. 有多种类型数据混合运算时，系统首先自动将所有数据转换成容量最大的那种数据类型，然后在进行计算。
@@ -48,11 +48,11 @@ API (Application Programming Interface)
 基本类型转String类型： 通过+  
 String类型转基本数据类型： 调用包装类parseXX方法
 
-![](image/1686302519486.png)
+![Alt text](image/1686302519486.png)
 
-![](image/1686302819448.png)
+![Alt text](image/1686302819448.png)
 
-![](image/1686304041370.png)
+![Alt text](image/1686304041370.png)
 
 1. java没有无符号数，换言之，java中的数都是有符号数。
 2. 在计算机运算的时候，都是以补码的方式来运算的。
@@ -61,7 +61,7 @@ String类型转基本数据类型： 调用包装类parseXX方法
 a % b 等同于 a - a / b * b  
 当a是小数时， a - (int)a / b * b
 
-![](image/1686305412149.png)
+![Alt text](image/1686305412149.png)
 
 如果switch语句中没有break，注意“穿透”现象。
 
@@ -73,18 +73,18 @@ int 0, short 0, byte 0, long 0, float 0.0, double 0.0, char \u0000, boolean fals
 
 数组在默认情况下是引用传递，赋的值是地址。
 
-![](image/1686313796114.png)
+![Alt text](image/1686313796114.png)
 
 **值传递和引用传递的区别**
 
-![](image/1686313859108.png)
+![Alt text](image/1686313859108.png)
 
 深拷贝
 
-![](image/1686314003619.png)
+![Alt text](image/1686314003619.png)
 
 字符串的比较用equals()
 
-![](image/1686315298211.png)
+![Alt text](image/1686315298211.png)
 
-![](image/1686315948101.png)
+![Alt text](image/1686315948101.png)
