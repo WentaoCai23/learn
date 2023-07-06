@@ -22,7 +22,7 @@
 
 ![Alt text](image/image-6.png)
 
-instanceOf用于判断对象的***运行***类型是否为XX类型或XX类型的自类型。
+instanceOf用于判断对象的**运行**类型是否为XX类型或XX类型的自类型。
 
 属性看编译类型，方法看运行类型。
 
