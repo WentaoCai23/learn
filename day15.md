@@ -37,3 +37,25 @@ interrupt()不是终止，是终断，会抛出一个InterruptException。
 如果因为一些特殊的原因，想提前中断一些阻塞的线程，以让他们提前解除阻塞状态，然后继续执行下去。只需要在其他线程调用指定线程的interrupt()方法即可（interrupt()方法是线程实例方法），这时候原来阻塞的对应的线程就会抛出InterruptException异常，通过catch捕获异常就可以继续往下面执行了。
 
 ![Alt text](image/1688564529560.jpg)
+
+![Alt text](image/image-136.png)
+
+![Alt text](image/image-137.png)
+
+![Alt text](image/image-138.png)
+
+![Alt text](image/image-139.png)
+
+![Alt text](image/image-140.png)
+
+![Alt text](image/image-141.png)
+
+![Alt text](image/image-142.png)
+
+![Alt text](image/image-143.png)
+
+![Alt text](image/image-144.png)
+
+![Alt text](image/image-145.png)
+
+![Alt text](image/image-146.png)
