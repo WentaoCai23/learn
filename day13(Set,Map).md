@@ -1,6 +1,6 @@
-![Alt text](image/1688120569426.jpg)
+![Alt text](image/1688120569426.png)
 
-![Alt text](image/1688120603461.jpg)
+![Alt text](image/1688120603461.png)
 
 取出的顺序虽然不是添加的顺序，但是取出的顺序是固定的。
 
