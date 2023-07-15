@@ -44,3 +44,42 @@
 
 ![Alt text](image/image-209.png)
 
+![Alt text](image/image-210.png)
+
+![Alt text](image/image-211.png)
+
+![Alt text](image/image-212.png)
+
+![Alt text](image/image-213.png)
+
+![Alt text](image/image-214.png)
+
+![Alt text](image/image-215.png)
+
+![Alt text](image/image-216.png)
+
+![Alt text](image/image-217.png)
+
+![Alt text](image/image-218.png)
+
+![Alt text](image/image-219.png)
+
+![Alt text](image/image-220.png)
+
+transient关键字就是不序列化的。
+
+![Alt text](image/image-221.png)
+
+![Alt text](image/image-222.png)
+
+![Alt text](image/image-223.png)
+
+ANSI是国标码，每个国家的国标码，中国的国标码是gbk。
+
+![Alt text](image/image-224.png)
+
+![Alt text](image/image-225.png)
+
+![Alt text](image/image-226.png)
+
+![Alt text](image/image-227.png)
