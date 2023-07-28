@@ -1,38 +1,38 @@
-![Alt text](image/image-26.png)
+![Alt text](image/day7/image.png)
 
 代码块比构造器先被调用。
 
-![Alt text](image/image-27.png)
+![Alt text](image/day7/image-1.png)
 
-![Alt text](image/image-28.png)
+![Alt text](image/day7/image-2.png)
 
-![Alt text](image/image-29.png)
+![Alt text](image/day7/image-3.png)
 
-![](image/image-30.png)
+![Alt text](image/day7/image-4.png)
 
-![Alt text](image/image-31.png)
+![Alt text](image/day7/image-5.png)
 
-![Alt text](image/image-32.png)
+![Alt text](image/day7/image-6.png)
 
 饿汉式可能造成创建了对象，但没有使用。
 
-![Alt text](image/image-33.png)
+![Alt text](image/day7/image-7.png)
 
-![Alt text](image/image-34.png)
+![Alt text](image/day7/image-8.png)
 
-![Alt text](image/image-35.png)
+![Alt text](image/day7/image-9.png)
 
-![Alt text](image/image-36.png)
+![Alt text](image/day7/image-10.png)
 
 当父类的某些方法，需要声明，但又不确定如何实现时，可以将其声明为抽象方法，那么这个类就是抽象类。
 
-![Alt text](image/image-37.png)
+![Alt text](image/day7/image-11.png)
 
-![Alt text](image/image-38.png)
+![Alt text](image/day7/image-12.png)
 
-![Alt text](image/image-39.png)
+![Alt text](image/day7/image-13.png)
 
-![Alt text](image/image-40.png)
+![Alt text](image/day7/image-14.png)
 
 私有的方法不能被重写。
 
