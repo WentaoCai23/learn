@@ -1,12 +1,12 @@
-![Alt text](image/1686895687960.png)
+![Alt text](image/day3/image.png)
 
 属性（成员变量）如果不赋值，有默认值，规则和数组一致。
 
 **Java成员变量（包括普通成员变量和静态变量）有默认值，可以不初始化；但局部变量必须要初始化。**
 
-![Alt text](image/1686896138571.png)
+![Alt text](image/day3/image-1.png)
 
-![Alt text](image/1686896802331.png)
+![Alt text](image/day3/image-2.png)
 
 访问修饰符有四种：public, protected, private, 默认。如果不写访问修饰符就是默认。
 
@@ -16,15 +16,15 @@
 
 引用类型传递的是地址（传递的也是值，但是值是地址），可以通过形参影响实参。
 
-![Alt text](image/1686898511605.png)
+![Alt text](image/day3/image-3.png)
 
 可以通过输出对象的hashCode看看对象是否是同一个。
 
-![Alt text](image/1686900510923.png)
+![Alt text](image/day3/image-4.png)
 
-![Alt text](image/1686903743749.png)
+![Alt text](image/day3/image-5.png)
 
-![Alt text](image/1686903841171.png)
+![Alt text](image/day3/image-6.png)
 
 一个类可以定义多个不同的构造器，即构造器的重载。
 
@@ -34,9 +34,9 @@
 
 一旦定义了自己的构造器，默认的构造器就覆盖了，就不能再使用默认的无参构造器了，除非显式的定义一下。
 
-![Alt text](image/1686906078189.png)
+![Alt text](image/day3/image-7.png)
 
-![Alt text](image/1686905913065.png)  
+![Alt text](image/day3/image-8.png)  
 **如果有this(参数列表)这种语法必须放在第一条语句**
 
 idea快捷键：
@@ -50,13 +50,13 @@ idea模板：
 2. sout
 3. fori
 
-![Alt text](image/1686908445088.png)
+![Alt text](image/day3/image-9.png)
 
-![Alt text](image/1686908507655.png)
+![Alt text](image/day3/image-10.png)
 
-![Alt text](image/1686916082252.png)
+![Alt text](image/day3/image-11.png)
 
-![Alt text](image/1686916168952.png)
+![Alt text](image/day3/image-12.png)
 
 继承细节：
 1. 子类必须调用父类的构造器，完成父类的初始化。
@@ -69,12 +69,12 @@ idea模板：
 8. 父类构造器的调用不限于直接父类，将一直往上追溯到Object类。
 9. java中是单继承机制。
 
-![Alt text](image/1686919180934.png)
+![Alt text](image/day3/image-13.png)
 
-![Alt text](image/1686919293724.png)
+![Alt text](image/day3/image-14.png)
 
-![Alt text](image/1686919854270.png)
+![Alt text](image/day3/image-15.png)
 
-![Alt text](image/1686919980652.png)
+![Alt text](image/day3/image-16.png)
 
-![Alt text](image/1686920138726.png)
+![Alt text](image/day3/image-17.png)
