@@ -28,18 +28,18 @@ debug：
 3. force step into  强制进入方法体内  
 4. step out  跳出方法  
 5. resume  执行到下一个断点  
-6. 蓝条的意思是执行到哪一行（这行之前执行过了，这行还未执行） ![Alt text](image/image-228.png)
+6. 蓝条的意思是执行到哪一行（这行之前执行过了，这行还未执行） ![Alt text](image/idea/image.png)
 
 diagrams:
-![Alt text](image/image-229.png)
-1. space  搜索添加类  ![Alt text](image/image-230.png)
-2. 从左往右依次是：字段 构造器 方法 properties（getter，setter的字段） 内部类  ![Alt text](image/image-231.png)
-3. 常用  ![Alt text](image/image-232.png)
+![Alt text](image/idea/image-1.png)
+1. space  搜索添加类  ![Alt text](image/idea/image-2.png)
+2. 从左往右依次是：字段 构造器 方法 properties（getter，setter的字段） 内部类  ![Alt text](image/idea/image-3.png)
+3. 常用  ![Alt text](image/idea/image-4.png)
 
 idea设置：
-1. 自动导包  ![Alt text](image/image-233.png)
-2. 代码提示补全  ![Alt text](image/image-234.png)
-3. debug设置  ![Alt text](image/image-235.png)
+1. 自动导包  ![Alt text](image/idea/image-5.png)
+2. 代码提示补全  ![Alt text](image/idea/image-6.png)
+3. debug设置  ![Alt text](image/idea/image-7.png)
 
 mac快捷键：
 1. 文字剪切 command + x 然后 command + v粘贴

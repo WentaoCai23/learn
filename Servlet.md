@@ -2,56 +2,56 @@ servlet是运行在Web服务器中的小型Java程序。servlet通过HTTP接收�
 
 JavaWeb三大组件：Servlet程序、Filter过滤器、Listener监听器。
 
-![Alt text](image/image-236.png)
+![Alt text](image/servlet/image.png)
 
-![Alt text](image/image-237.png)
+![Alt text](image/servlet/image-1.png)
 
 请求的分发处理
 
-![Alt text](image/image-238.png)
+![Alt text](image/servlet/image-2.png)
 
-![Alt text](image/image-239.png)
+![Alt text](image/servlet/image-3.png)
 
-![Alt text](image/image-240.png)
+![Alt text](image/servlet/image-4.png)
 
-![Alt text](image/image-241.png)
+![Alt text](image/servlet/image-5.png)
 
-![Alt text](image/image-242.png)
+![Alt text](image/servlet/image-6.png)
 
-![Alt text](image/image-243.png)
+![Alt text](image/servlet/image-7.png)
 
-![Alt text](image/image-244.png)
+![Alt text](image/servlet/image-8.png)
 
-![Alt text](image/image-245.png)
+![Alt text](image/servlet/image-9.png)
 
-![Alt text](image/image-246.png)
+![Alt text](image/servlet/image-10.png)
 
-![Alt text](image/image-247.png)
+![Alt text](image/servlet/image-11.png)
 
-![Alt text](image/image-248.png)
+![Alt text](image/servlet/image-12.png)
 
-![Alt text](image/image-249.png)
+![Alt text](image/servlet/image-13.png)
 
-![Alt text](image/image-250.png)
+![Alt text](image/servlet/image-14.png)
 
-![Alt text](image/image-251.png)
+![Alt text](image/servlet/image-15.png)
 
-![Alt text](image/image-252.png)
+![Alt text](image/servlet/image-16.png)
 
-![Alt text](image/image-253.png)
+![Alt text](image/servlet/image-17.png)
 
 请求的转发是指，服务器收到请求后，从一个资源跳转到另一个资源的操作。
 
-![Alt text](image/image-254.png)
+![Alt text](image/servlet/image-18.png)
 
-![Alt text](image/image-255.png)
+![Alt text](image/servlet/image-19.png)
 
-![Alt text](image/image-256.png)
+![Alt text](image/servlet/image-20.png)
 
-![Alt text](image/image-257.png)
+![Alt text](image/servlet/image-21.png)
 
-![Alt text](image/image-258.png)
+![Alt text](image/servlet/image-22.png)
 
-![Alt text](image/image-259.png)
+![Alt text](image/servlet/image-23.png)
 
-![Alt text](image/image-260.png)
+![Alt text](image/servlet/image-24.png)
