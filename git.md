@@ -1,4 +1,4 @@
-![Alt text](image/1688385660406.png)
+![Alt text](image/git/image.png)
 
 设置用户名和邮箱  
 git config --global user.name "cwt"  
@@ -51,11 +51,11 @@ origin默认表示远程仓库的名字
 
 git push后输入用户名，然后不要输密码，把token粘贴过去
 
-![Alt text](image/1688387874428.png)
+![Alt text](image/git/image-1.png)
 
 Initialize Repository相当于git init
 
-![Alt text](image/1688387948683.png)
+![Alt text](image/git/image-2.png)
 
 +相当于git add  
 -相当于git restore --staged <文件名>取消放到暂存区  
@@ -65,7 +65,7 @@ A表示已被添加到暂存区
 右上角三个点可以创建分支，合并分支 
 M表示modified被修改的状态
 
-![Alt text](image/1688388291756.png)
+![Alt text](image/git/image-3.png)
 
 左下角切换分支  
 Publish Branch相当于git push
@@ -88,14 +88,14 @@ pull request 让别人拉取自己代码的请求
 
 **在feature分支上 git merge master**
 
-![Alt text](image/1688391209871.png)
+![Alt text](image/git/image-4.png)
 
-![Alt text](image/1688391320712.png)
+![Alt text](image/git/image-5.png)
 
 **在feature分支上 git rebase master**
 
-![Alt text](image/1688391463689.png)
+![Alt text](image/git/image-6.png)
 
-![Alt text](image/1688391524403.png)
+![Alt text](image/git/image-7.png)
 
-![Alt text](image/1688391570169.png)
+![Alt text](image/git/image-8.png)

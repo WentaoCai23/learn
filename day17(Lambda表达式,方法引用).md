@@ -1,25 +1,25 @@
-![Alt text](image/image-175.png)
+![Alt text](image/day17/image.png)
 
-![Alt text](image/image-176.png)
+![Alt text](image/day17/image-1.png)
 
-![Alt text](image/image-177.png)
+![Alt text](image/day17/image-2.png)
 
-![Alt text](image/image-178.png)
+![Alt text](image/day17/image-3.png)
 
-![Alt text](image/image-179.png)
+![Alt text](image/day17/image-4.png)
 
-![Alt text](image/image-180.png)
+![Alt text](image/day17/image-5.png)
 
-![Alt text](image/image-181.png)
+![Alt text](image/day17/image-6.png)
 
-![Alt text](image/image-182.png)
+![Alt text](image/day17/image-7.png)
 
-![Alt text](image/image-183.png)
+![Alt text](image/day17/image-8.png)
 
-![Alt text](image/image-184.png)
+![Alt text](image/day17/image-9.png)
 
-![Alt text](image/image-185.png)
+![Alt text](image/day17/image-10.png)
 
-![Alt text](image/image-186.png)
+![Alt text](image/day17/image-11.png)
 
-![Alt text](image/image-187.png)
+![Alt text](image/day17/image-12.png)
