@@ -75,3 +75,19 @@ cookie的值可以唯一地标识客户端，因此cookie常用于会话管理�
 ![Alt text](image/javaweb/image-32.png)
 
 ![Alt text](image/javaweb/image-33.png)
+
+![Alt text](image/javaweb/image-34.png)
+
+**Cookie是保存在客户端，Session是保存在服务端**
+
+![Alt text](image/javaweb/image-35.png)
+
+![Alt text](image/javaweb/image-36.png)
+
+![Alt text](image/javaweb/image-37.png)
+
+Session技术，底层其实是基于Cookie技术来实现的。
+
+![Alt text](image/javaweb/image-38.png)
+
+![Alt text](image/javaweb/image-39.png)
