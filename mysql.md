@@ -43,3 +43,29 @@
 ![Alt text](image/mysql/image-17.png)
 
 ![Alt text](image/mysql/image-18.png)
+
+![Alt text](image/mysql/image-19.png)
+
+![Alt text](image/mysql/image-20.png)
+
+![Alt text](image/mysql/image-21.png)
+
+![Alt text](image/mysql/image-22.png)
+
+不等于可以用<>或!=
+
+BETWEEN...AND...是闭区间
+
+![Alt text](image/mysql/image-23.png)
+
+![Alt text](image/mysql/image-24.png)
+
+![Alt text](image/mysql/image-25.png)
+
+![Alt text](image/mysql/image-26.png)
+
+![Alt text](image/mysql/image-27.png)
+
+![Alt text](image/mysql/image-28.png)
+
+![Alt text](image/mysql/image-29.png)
