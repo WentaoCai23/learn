@@ -69,3 +69,39 @@ BETWEEN...AND...是闭区间
 ![Alt text](image/mysql/image-28.png)
 
 ![Alt text](image/mysql/image-29.png)
+
+![Alt text](image/mysql/image-30.png)
+
+![Alt text](image/mysql/image-31.png)
+
+![Alt text](image/mysql/image-32.png)
+
+![Alt text](image/mysql/image-33.png)
+
+![Alt text](image/mysql/image-34.png)
+
+![Alt text](image/mysql/image-35.png)
+
+![Alt text](image/mysql/image-36.png)
+
+CURRENT_TIMESTAMP和NOW效果一样。
+
+DUAL是亚元表，可以用于测试。
+
+UNIX_TIMESTAMP()返回的是1971-1-1到现在的秒数。
+
+![Alt text](image/mysql/image-37.png)
+
+![Alt text](image/mysql/image-38.png)
+
+![Alt text](image/mysql/image-39.png)
+
+![Alt text](image/mysql/image-40.png)
+
+![Alt text](image/mysql/image-41.png)
+
+![Alt text](image/mysql/image-42.png)
+
+![Alt text](image/mysql/image-43.png)
+
+![Alt text](image/mysql/image-44.png)
