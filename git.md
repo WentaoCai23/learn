@@ -99,3 +99,7 @@ pull request 让别人拉取自己代码的请求
 ![Alt text](image/git/image-7.png)
 
 ![Alt text](image/git/image-8.png)
+
+![Alt text](image/git/image-9.png)
+
+![Alt text](image/git/image-10.png)
