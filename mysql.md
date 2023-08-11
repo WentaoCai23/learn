@@ -163,3 +163,51 @@ UNIX_TIMESTAMP()返回的是1971-1-1到现在的秒数。
 ![Alt text](image/mysql/image-69.png)
 
 ![Alt text](image/mysql/image-70.png)
+
+![Alt text](image/mysql/image-71.png)
+
+![Alt text](image/mysql/image-72.png)
+
+![Alt text](image/mysql/image-73.png)
+
+![Alt text](image/mysql/image-74.png)
+
+![Alt text](image/mysql/image-75.png)
+
+![Alt text](image/mysql/image-76.png)
+
+![Alt text](image/mysql/image-77.png)
+
+![Alt text](image/mysql/image-78.png)
+
+![Alt text](image/mysql/image-79.png)
+
+![Alt text](image/mysql/image-80.png)
+
+![Alt text](image/mysql/image-81.png)
+
+![Alt text](image/mysql/image-82.png)
+
+![Alt text](image/mysql/image-83.png)
+
+创建索引后，只对创建了索引的列有效。
+
+![Alt text](image/mysql/image-84.png)
+
+![Alt text](image/mysql/image-85.png)
+
+![Alt text](image/mysql/image-86.png)
+
+创建表时字段若声明为primary key，则自动创建主键索引。
+
+创建表时字段若声明为unique，则自动创建唯一索引。
+
+![Alt text](image/mysql/image-87.png)
+
+![Alt text](image/mysql/image-88.png)
+
+![Alt text](image/mysql/image-89.png)
+
+删除主键索引后，就不再是主键。删除unique索引后，就不再是unique。
+
+![Alt text](image/mysql/image-90.png)
