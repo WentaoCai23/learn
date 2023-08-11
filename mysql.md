@@ -211,3 +211,5 @@ UNIX_TIMESTAMP()返回的是1971-1-1到现在的秒数。
 删除主键索引后，就不再是主键。删除unique索引后，就不再是unique。
 
 ![Alt text](image/mysql/image-90.png)
+
+DML(Data Manipulation Language)语句:数据操纵语句。 用途:用于添加、修改、删除和查询数据库记录,并检查数据完整性。
