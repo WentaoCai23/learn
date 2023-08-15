@@ -213,3 +213,65 @@ UNIX_TIMESTAMP()返回的是1971-1-1到现在的秒数。
 ![Alt text](image/mysql/image-90.png)
 
 DML(Data Manipulation Language)语句:数据操纵语句。 用途:用于添加、修改、删除和查询数据库记录,并检查数据完整性。
+
+![Alt text](image/mysql/image-91.png)
+
+![Alt text](image/mysql/image-92.png)
+
+![Alt text](image/mysql/image-93.png)
+
+rollback到a保存点后，就无法回到b保存点了。
+
+![Alt text](image/mysql/image-94.png)
+
+![Alt text](image/mysql/image-95.png)
+
+![Alt text](image/mysql/image-96.png)
+
+![Alt text](image/mysql/image-97.png)
+
+脏读的关键是另一个事务未提交，不可重复读和幻读的关键是另一个事务已提交。不可重复读强调的是修改或删除，幻读强调的是插入。
+
+加锁就是两个事务操作同一张表时，有个事务还没提交时，另一个事务操作会卡住。
+
+![Alt text](image/mysql/image-98.png)
+
+![Alt text](image/mysql/image-99.png)
+
+![Alt text](image/mysql/image-100.png)
+
+![Alt text](image/mysql/image-101.png)
+
+![Alt text](image/mysql/image-102.png)
+
+![Alt text](image/mysql/image-103.png)
+
+![Alt text](image/mysql/image-104.png)
+
+![Alt text](image/mysql/image-105.png)
+
+![Alt text](image/mysql/image-106.png)
+
+![Alt text](image/mysql/image-107.png)
+
+![Alt text](image/mysql/image-108.png)
+
+![Alt text](image/mysql/image-109.png)
+
+![Alt text](image/mysql/image-110.png)
+
+![Alt text](image/mysql/image-111.png)
+
+![Alt text](image/mysql/image-112.png)
+
+![Alt text](image/mysql/image-113.png)
+
+![Alt text](image/mysql/image-114.png)
+
+![Alt text](image/mysql/image-115.png)
+
+![Alt text](image/mysql/image-116.png)
+
+![Alt text](image/mysql/image-117.png)
+
+![Alt text](image/mysql/image-118.png)
