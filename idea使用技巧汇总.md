@@ -4,14 +4,15 @@
 3. ctrl + d  复制一行
 4. ctrl + x  删除一行
 5. ctrl + h  查看继承关系
-6. ctrl + /  单行注释（取消注释同理//）
-7. ctrl + shift + /  多行注释（/* */）
-8. ctrl + 单击  查看源码
-9. ctrl + r 替换 ctrl + f 搜索
-10. Shift + enter  在当前行之下创建一个空白行（与光标当前位置无关）,并把光标移到行首
-11. shift + tab  集体左移（tab集体右移）
-12. alt + enter  智能提示
-13. alt + insert  生成构造器getter，setter（mac版command + n）
+6. ctrl + o  重写或实现方法
+7. ctrl + /  单行注释（取消注释同理//）
+8. ctrl + shift + /  多行注释（/* */）
+9. ctrl + 单击  查看源码
+10. ctrl + r 替换 ctrl + f 搜索
+11. Shift + enter  在当前行之下创建一个空白行（与光标当前位置无关）,并把光标移到行首
+12. shift + tab  集体左移（tab集体右移）
+13. alt + enter  智能提示
+14. alt + insert  生成构造器getter，setter（mac版command + n）
 
 /** + enter  文档注释
 
