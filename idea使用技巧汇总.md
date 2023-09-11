@@ -24,6 +24,7 @@
 4. itit  迭代器遍历
 5. fori  for循环
 6. I  增强for循环（iter，.for）
+7. .sout  控制台输出
 
 debug：
 1. step over  逐行执行  
