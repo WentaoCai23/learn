@@ -20,11 +20,12 @@
 快速生成代码段：
 1. main  main方法
 2. sout  输出
-3. .var  自动分配变量
-4. itit  迭代器遍历
-5. fori  for循环
-6. I  增强for循环（iter，.for）
-7. .sout  控制台输出
+3. psf  public static final
+4. .var  自动分配变量
+5. itit  迭代器遍历
+6. fori  for循环
+7. I  增强for循环（iter，.for）
+8. .sout  控制台输出
 
 debug：
 1. step over  逐行执行  
