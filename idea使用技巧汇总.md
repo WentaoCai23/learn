@@ -26,7 +26,8 @@
 6. fori  for循环
 7. I  增强for循环（iter，.for）
 8. .sout  控制台输出
-9. .if  放进if()里
+9. obj.if  等同于if(obj){}
+10. obj.null  等同于if(obj == null){}
 
 debug：
 1. step over  逐行执行  
