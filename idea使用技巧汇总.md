@@ -12,10 +12,12 @@
 11. ctrl + shift + f  全项目搜索
 12. ctrl + 单击  查看源码
 13. ctrl + r 替换 ctrl + f 搜索
-14. Shift + enter  在当前行之下创建一个空白行（与光标当前位置无关）,并把光标移到行首
-15. shift + tab  集体左移（tab集体右移）
-16. alt + enter  智能提示
-17. alt + insert  生成构造器getter，setter（mac版command + n）
+14. ctrl + alt + right  回到下一个方法（类）
+15. ctrl + alt + left  回到上一个方法（类）
+16. Shift + enter  在当前行之下创建一个空白行（与光标当前位置无关）,并把光标移到行首
+17. shift + tab  集体左移（tab集体右移）
+18. alt + enter  智能提示
+19. alt + insert  生成构造器getter，setter（mac版command + n）
 
 /** + enter  文档注释
 
