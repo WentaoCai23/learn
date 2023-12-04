@@ -58,3 +58,5 @@ mac快捷键：
 3. 显示隐藏文件 command + shift + .
 4. 聚焦搜索 command + space
 5. 快速预览 单击 + space
+6. 终端中断执行 command + . https://support.apple.com/zh-cn/guide/terminal/trmlshtcts/mac
+7. 访达打开一个新窗口 command + n
