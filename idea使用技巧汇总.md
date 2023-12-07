@@ -59,5 +59,7 @@ mac快捷键：
 4. 聚焦搜索 command + space
 5. 快速预览 单击 + space
 6. 终端中断执行 command + . https://support.apple.com/zh-cn/guide/terminal/trmlshtcts/mac
-7. 访达打开一个新窗口 command + n
-8. 截图 command + shift + 4 (+ control 放入剪贴板)
+7. 终端删除行 control + u
+8. 终端重新定位插入点 在按住 Option 键的同时将指针移到新的插入点
+9. 访达打开一个新窗口 command + n
+10. 截图 command + shift + 4 (+ control 放入剪贴板)
