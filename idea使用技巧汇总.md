@@ -9,17 +9,17 @@
 8. ctrl + p  查看方法需要传递什么参数
 9. ctrl + /  单行注释（取消注释同理//）
 10. ctrl + shift + /  多行注释（/* */）
-11. ctrl + shift + f  全项目搜索
-12. ctrl + 单击  查看源码
-13. ctrl + r 替换 ctrl + f 搜索
-14. ctrl + alt + right  回到下一个方法（类）
-15. ctrl + alt + left  回到上一个方法（类）
-16. Shift + enter  在当前行之下创建一个空白行（与光标当前位置无关）,并把光标移到行首
-17. shift + tab  集体左移（tab集体右移）
-18. alt + enter  智能提示
-19. alt + insert  生成构造器getter，setter（mac版command + n）
-
-/** + enter  文档注释
+11. /** + enter  生成文档注释
+12. ctrl + shift + f  全项目搜索
+13. ctrl + 单击  查看源码
+14. ctrl + r 替换 ctrl + f 搜索
+15. ctrl + alt + right  回到下一个方法（类）
+16. ctrl + alt + left  回到上一个方法（类）
+17. ctrl + alt + 单击  查看所有子类（或实现类）
+18. Shift + enter  在当前行之下创建一个空白行（与光标当前位置无关）,并把光标移到行首
+19. shift + tab  集体左移（tab集体右移）
+20. alt + enter  智能提示
+21. alt + insert  生成构造器getter，setter（mac版command + n）
 
 快速生成代码段：
 1. main  main方法
@@ -62,4 +62,5 @@ mac快捷键：
 7. 终端删除行 control + u
 8. 终端重新定位插入点 在按住 Option 键的同时将指针移到新的插入点
 9. 访达打开一个新窗口 command + n
-10. 截图 command + shift + 4 (+ control 放入剪贴板)
+10. 框选截图 command + shift + 4 （+control 放到剪贴板中）
+11. 截图 command + shift + 4 (+ control 放入剪贴板)
