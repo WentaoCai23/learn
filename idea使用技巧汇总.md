@@ -3,23 +3,24 @@
 2. ctrl + alt + l  格式化
 3. ctrl + alt + t  surround with
 4. ctrl + d  复制一行
-5. ctrl + x  删除一行
-6. ctrl + h  查看继承关系
-7. ctrl + o  重写或实现方法
-8. ctrl + p  查看方法需要传递什么参数
-9. ctrl + /  单行注释（取消注释同理//）
-10. ctrl + shift + /  多行注释（/* */）
-11. /** + enter  生成文档注释
-12. ctrl + shift + f  全项目搜索
-13. ctrl + 单击  查看源码
-14. ctrl + r 替换 ctrl + f 搜索
-15. ctrl + alt + right  回到下一个方法（类）
-16. ctrl + alt + left  回到上一个方法（类）
-17. ctrl + alt + 单击  查看所有子类（或实现类）
-18. Shift + enter  在当前行之下创建一个空白行（与光标当前位置无关）,并把光标移到行首
-19. shift + tab  集体左移（tab集体右移）
-20. alt + enter  智能提示
-21. alt + insert  生成构造器getter，setter（mac版command + n）
+5. ctrl + x  剪切一行
+6. ctrl + y 删除一行（mac中command + delete）
+7. ctrl + h  查看继承关系
+8. ctrl + o  重写或实现方法
+9. ctrl + p  查看方法需要传递什么参数
+10. ctrl + /  单行注释（取消注释同理//）
+11. ctrl + shift + /  多行注释（/* */）
+12. /** + enter  生成文档注释
+13. ctrl + shift + f  全项目搜索
+14. ctrl + 单击  查看源码
+15. ctrl + r 替换 ctrl + f 搜索
+16. ctrl + alt + right  回到下一个方法（类）
+17. ctrl + alt + left  回到上一个方法（类）
+18. ctrl + alt + 单击  查看所有子类（或实现类）
+19. Shift + enter  在当前行之下创建一个空白行（与光标当前位置无关）,并把光标移到行首
+20. shift + tab  集体左移（tab集体右移）
+21. alt + enter  智能提示
+22. alt + insert  生成构造器getter，setter（mac版command + n）
 
 快速生成代码段：
 1. main  main方法
